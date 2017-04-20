@@ -5,6 +5,7 @@ export default class App extends Component {
     return (
       <div>React simple starter</div>
       <div>TEst </div>
+      <div>TEst </div>
     );
   }
 }
